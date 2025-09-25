@@ -1,0 +1,25 @@
+# Data and numerical operations
+pandas
+numpy<2.0
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+arch
+lightgbm
+xgboost
+catboost
+
+# API communication
+requests
+pybit
+
+# Visualization (for feature evaluation)
+matplotlib
+seaborn
+
+# Model and scaler saving
+joblib
+
+# Environment variables
+python-dotenv

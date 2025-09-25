@@ -1,0 +1,22 @@
+# Файлы окружения (Секреты)
+.env
+API.env
+*.env
+
+# Python кэш и артефакты
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# Лог-файлы
+*.log
+
+# Файлы IDE
+.idea/
+.vscode/
